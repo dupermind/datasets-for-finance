@@ -6,6 +6,9 @@
 * [Tushare](http://tushare.org/index.html)
   * Tushare是一个免费、开源的python财经数据接口包
   * 重点推荐
+* [国家数据](http://data.stats.gov.cn/) 
+  * 数据来源于中国国家统计局
+  * 官方权威
 
 ## 英文数据集
 
