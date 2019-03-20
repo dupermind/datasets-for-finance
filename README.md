@@ -1,6 +1,12 @@
 # datasets-for-finance
 为中国学生准备的金融学数据集
 
+## 中文数据集
+
+* [Tushare](http://tushare.org/index.html)
+  * Tushare是一个免费、开源的python财经数据接口包
+  * 重点推荐
+
 ## 英文数据集
 
 * [CBOE Futures Exchange](http://cfe.cboe.com/market-data/)
@@ -21,3 +27,4 @@
 ## 参考文献
 
 1. awesome-public-datasets, https://github.com/awesomedata/awesome-public-datasets
+1. Tushare, http://tushare.org/index.html
