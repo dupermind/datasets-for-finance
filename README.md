@@ -29,6 +29,7 @@
 * [Quandl](https://www.quandl.com/)
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
 * [Yahoo Finance](http://finance.yahoo.com/)
+* [QS ranking](https://www.qs.com/rankings/)
 
 ### 需翻墙的数据集
 
