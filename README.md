@@ -18,7 +18,12 @@
 * [中国海关](http://www.customs.gov.cn)
   * 中国进出口相关数据
 
+### 地方政府数据
 
+* [北京市政务数据资源网](http://www.bjdata.gov.cn/index.htm)
+* [上海市政务数据服务网](http://www.datashanghai.gov.cn/home!toHomePage.action)
+* [深圳市政府数据开放平台](http://opendata.sz.gov.cn/)
+* [贵州省政府数据开放平台](http://www.gzdata.gov.cn/)
 
 ## 英文数据集
 
