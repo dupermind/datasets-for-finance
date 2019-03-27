@@ -25,6 +25,12 @@
 * [深圳市政府数据开放平台](http://opendata.sz.gov.cn/)
 * [贵州省政府数据开放平台](http://www.gzdata.gov.cn/)
 
+### 互联网数据
+
+* [淘宝指数](http://shu.taobao.com/)
+* [百度指数（综合）](http://index.baidu.com/)
+* [199it互联网TMT数据报告](http://www.199it.com/)
+
 ## 英文数据集
 
 * [CBOE Futures Exchange](http://cfe.cboe.com/market-data/)
