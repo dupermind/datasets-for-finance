@@ -46,6 +46,7 @@
 
 * [Google Finance](https://www.google.com/finance)
 * [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
+* [Google Public Data Explorer](https://www.google.com/publicdata/)
 * [美国政府公开数据源](https://www.data.gov/)
 
 
