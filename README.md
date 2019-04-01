@@ -24,6 +24,8 @@
 * [上海市政务数据服务网](http://www.datashanghai.gov.cn/home!toHomePage.action)
 * [深圳市政府数据开放平台](http://opendata.sz.gov.cn/)
 * [贵州省政府数据开放平台](http://www.gzdata.gov.cn/)
+* [山东统计局](http://www.stats-sd.gov.cn/)
+* [河南统计局](http://www.ha.stats.gov.cn/sitesources/hntj/page_pc/zfxxgkpd/zfxxgkml/index.html)
 
 ### 互联网数据
 
